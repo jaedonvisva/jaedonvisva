@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PowerBI, Next.js, OpenBCI**
 
-- 👨‍💻 All of my projects are available at [https://jaedonvisva.co](jaedonvisva.co)
+- 👨‍💻 All of my projects are available at [https://jaedonvisva.co](https://jaedonvisva.co)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
