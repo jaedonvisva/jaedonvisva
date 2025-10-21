@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [an LLM-based trading platform](https://github.com/jaedonvisva/llm_trader)
 
-- 🌱 I’m currently learning **PowerBI, Next.js, OpenBCI**
-
 - 👨‍💻 All of my projects are available at [https://jaedonvisva.co](https://jaedonvisva.co)
 
 <h3 align="left">Connect with me:</h3>
