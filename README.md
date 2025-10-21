@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaedon</h1>
 <h3 align="center">I am an aspiring Software Engineer studying Management Engineering at the University of Waterloo</h3>
 
-- 🔭 I’m currently working on [MeshAI](https://github.com/jaedonvisva/meshai)
+- 🔭 I’m currently working on [an LLM-based trading platform](https://github.com/jaedonvisva/llm_trader)
 
 - 🌱 I’m currently learning **PowerBI, Next.js, OpenBCI**
 
